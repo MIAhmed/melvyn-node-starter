@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\authorization",
+    "\\src\\authorization\\__tests__",
+    "\\src\\core",
+    "\\src\\crud-operations",
+    "\\src\\file-storage",
+    "\\src\\hello-world",
+    "\\src\\others",
+    "\\src\\shared"
+  ],
+  "SelectedNode": "\\src\\others\\document.js",
+  "PreviewInSolutionExplorer": false
+}
